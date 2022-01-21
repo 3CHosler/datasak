@@ -1,0 +1,6 @@
+#Brian Hosler
+#January 2022
+
+[build-system]
+build-backend = "setuptools.build_meta"
+requires = ["setuptools", "meta"]
